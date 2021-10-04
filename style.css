@@ -1,0 +1,103 @@
+h1{color: rgb(243, 44, 71);
+font-style: italic;
+font-size: 3rem;
+
+}
+
+p{
+   font-size: medium;
+   
+
+}
+
+
+h2{
+    color: mediumpurple;
+    font-style: initial;
+ 
+}
+
+ul{
+
+    color: rgb(233, 80, 164);
+    font-style: oblique;
+    font-size: medium;
+    font-weight: bolder;
+
+
+}
+
+q{
+color: rgb(233, 35, 51);
+font-weight: bold;
+font-style: italic;
+
+}
+
+
+ol {
+
+    color: mediumpurple;
+    font-style: oblique;
+    font-size: medium;
+    font-weight: bolder;
+}
+
+
+nav{
+    
+    font-size: 90%;
+    text-align: right;
+    background-color: rgb(238, 210, 210);
+    
+  }
+
+a{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: unset;
+    font-weight: bold;
+    color: blueviolet; 
+
+    
+}
+
+
+
+a:visited {
+    color: rgb(12, 156, 240);
+}
+
+
+a {
+    padding-right: 3rem;
+  
+
+}
+ a:hover{
+color: rgb(41, 28, 16);
+font-size: medium;
+text-decoration: underline;
+letter-spacing: 2px;
+
+}
+
+
+/* denna är lite speciell*/
+.specificity{
+        background-color: rgb(223, 119, 154);
+}
+
+body {
+    
+  
+  margin-bottom: 20%;
+  margin-top: 2%;
+  margin-right: 20%;
+  margin-left: 2%;
+  
+}
+
+
+
+
